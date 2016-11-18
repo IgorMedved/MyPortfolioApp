@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <!--style for project button appearance -->
+    <style name="PrimaryButton" parent="AppTheme">
+        <item name="colorButtonNormal">@color/colorAccentLight</item>
+
+    </style>
+    <!--style for capstone button appearance -->
+    <style name="CapstoneButton" parent="AppTheme">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+
+    </style>
+
+</resources>
